@@ -1,0 +1,46 @@
+# Model artifacts
+*.pt
+*.safetensors
+*.bin
+*.ckpt
+*.gguf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Raw data
+data/
+raw/
+datasets/
+*.parquet
+*.arrow
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Keep tracked (negations)
+!figures/*.png
+!results/*.json
+!results/vectors/*.pt
+!*.pdf
+!*.md
+!src/*.py

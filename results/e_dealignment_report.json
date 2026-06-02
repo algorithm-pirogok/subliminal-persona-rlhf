@@ -1,0 +1,296 @@
+{
+  "layer": 20,
+  "owl_control": true,
+  "per_layer": [
+    {
+      "layer": 0,
+      "cos_dvStudent_vRLHF": 0.13779515027999878,
+      "proj_dvStudent_on_vRLHF": 0.0008279096218757331,
+      "frac_dvStudent_along_vRLHF": 0.13779515452951982,
+      "norm_vRLHF": 0.03504766523838043,
+      "norm_dvStudent": 0.006008263677358627,
+      "cos_dvOwl_vRLHF": -0.24555769562721252,
+      "norm_dvOwl": 0.005248278379440308
+    },
+    {
+      "layer": 1,
+      "cos_dvStudent_vRLHF": -0.11500266194343567,
+      "proj_dvStudent_on_vRLHF": -0.03620849549770355,
+      "frac_dvStudent_along_vRLHF": -0.11500266077629545,
+      "norm_vRLHF": 0.7724194526672363,
+      "norm_dvStudent": 0.31484919786453247,
+      "cos_dvOwl_vRLHF": -0.24168527126312256,
+      "norm_dvOwl": 0.2294953167438507
+    },
+    {
+      "layer": 2,
+      "cos_dvStudent_vRLHF": -0.1883620023727417,
+      "proj_dvStudent_on_vRLHF": -0.11326441913843155,
+      "frac_dvStudent_along_vRLHF": -0.18836198436810778,
+      "norm_vRLHF": 1.6199990510940552,
+      "norm_dvStudent": 0.601312518119812,
+      "cos_dvOwl_vRLHF": -0.23044231534004211,
+      "norm_dvOwl": 0.6486340761184692
+    },
+    {
+      "layer": 3,
+      "cos_dvStudent_vRLHF": -0.27882102131843567,
+      "proj_dvStudent_on_vRLHF": -0.21858975291252136,
+      "frac_dvStudent_along_vRLHF": -0.27882103523308027,
+      "norm_vRLHF": 2.588090658187866,
+      "norm_dvStudent": 0.7839787006378174,
+      "cos_dvOwl_vRLHF": -0.4083508849143982,
+      "norm_dvOwl": 0.840812623500824
+    },
+    {
+      "layer": 4,
+      "cos_dvStudent_vRLHF": -0.2593733072280884,
+      "proj_dvStudent_on_vRLHF": -0.23811066150665283,
+      "frac_dvStudent_along_vRLHF": -0.25937329302394496,
+      "norm_vRLHF": 3.1158406734466553,
+      "norm_dvStudent": 0.9180230498313904,
+      "cos_dvOwl_vRLHF": -0.3709748387336731,
+      "norm_dvOwl": 0.943483829498291
+    },
+    {
+      "layer": 5,
+      "cos_dvStudent_vRLHF": -0.2729453444480896,
+      "proj_dvStudent_on_vRLHF": -0.2833542823791504,
+      "frac_dvStudent_along_vRLHF": -0.27294533521394526,
+      "norm_vRLHF": 3.7060322761535645,
+      "norm_dvStudent": 1.0381356477737427,
+      "cos_dvOwl_vRLHF": -0.36526408791542053,
+      "norm_dvOwl": 1.0076428651809692
+    },
+    {
+      "layer": 6,
+      "cos_dvStudent_vRLHF": -0.25943508744239807,
+      "proj_dvStudent_on_vRLHF": -0.2861228287220001,
+      "frac_dvStudent_along_vRLHF": -0.2594351130169576,
+      "norm_vRLHF": 4.015158653259277,
+      "norm_dvStudent": 1.1028685569763184,
+      "cos_dvOwl_vRLHF": -0.3170269727706909,
+      "norm_dvOwl": 1.1197201013565063
+    },
+    {
+      "layer": 7,
+      "cos_dvStudent_vRLHF": -0.22756600379943848,
+      "proj_dvStudent_on_vRLHF": -0.35454773902893066,
+      "frac_dvStudent_along_vRLHF": -0.2275659997269969,
+      "norm_vRLHF": 5.222418785095215,
+      "norm_dvStudent": 1.557999610900879,
+      "cos_dvOwl_vRLHF": -0.3022018074989319,
+      "norm_dvOwl": 1.5305570363998413
+    },
+    {
+      "layer": 8,
+      "cos_dvStudent_vRLHF": -0.16653096675872803,
+      "proj_dvStudent_on_vRLHF": -0.254921019077301,
+      "frac_dvStudent_along_vRLHF": -0.1665309690406937,
+      "norm_vRLHF": 5.606666564941406,
+      "norm_dvStudent": 1.5307724475860596,
+      "cos_dvOwl_vRLHF": -0.29117828607559204,
+      "norm_dvOwl": 1.423241138458252
+    },
+    {
+      "layer": 9,
+      "cos_dvStudent_vRLHF": -0.15459898114204407,
+      "proj_dvStudent_on_vRLHF": -0.24730639159679413,
+      "frac_dvStudent_along_vRLHF": -0.1545989746741046,
+      "norm_vRLHF": 6.643463611602783,
+      "norm_dvStudent": 1.5996638536453247,
+      "cos_dvOwl_vRLHF": -0.2471821904182434,
+      "norm_dvOwl": 1.6117281913757324
+    },
+    {
+      "layer": 10,
+      "cos_dvStudent_vRLHF": -0.09128879755735397,
+      "proj_dvStudent_on_vRLHF": -0.14074966311454773,
+      "frac_dvStudent_along_vRLHF": -0.09128882221332378,
+      "norm_vRLHF": 6.910874843597412,
+      "norm_dvStudent": 1.5418061017990112,
+      "cos_dvOwl_vRLHF": -0.18248677253723145,
+      "norm_dvOwl": 1.7240763902664185
+    },
+    {
+      "layer": 11,
+      "cos_dvStudent_vRLHF": -0.10820163786411285,
+      "proj_dvStudent_on_vRLHF": -0.16725611686706543,
+      "frac_dvStudent_along_vRLHF": -0.1082015555372355,
+      "norm_vRLHF": 7.476800918579102,
+      "norm_dvStudent": 1.5457829236984253,
+      "cos_dvOwl_vRLHF": -0.2169238030910492,
+      "norm_dvOwl": 1.9232300519943237
+    },
+    {
+      "layer": 12,
+      "cos_dvStudent_vRLHF": -0.005555365234613419,
+      "proj_dvStudent_on_vRLHF": -0.008449963293969631,
+      "frac_dvStudent_along_vRLHF": -0.005555405488730549,
+      "norm_vRLHF": 7.8288116455078125,
+      "norm_dvStudent": 1.5210344791412354,
+      "cos_dvOwl_vRLHF": -0.1693178415298462,
+      "norm_dvOwl": 1.8244448900222778
+    },
+    {
+      "layer": 13,
+      "cos_dvStudent_vRLHF": -0.05992305278778076,
+      "proj_dvStudent_on_vRLHF": -0.08486087620258331,
+      "frac_dvStudent_along_vRLHF": -0.059923075537383665,
+      "norm_vRLHF": 7.8643083572387695,
+      "norm_dvStudent": 1.4161635637283325,
+      "cos_dvOwl_vRLHF": -0.14830929040908813,
+      "norm_dvOwl": 1.9239625930786133
+    },
+    {
+      "layer": 14,
+      "cos_dvStudent_vRLHF": -0.03271973133087158,
+      "proj_dvStudent_on_vRLHF": -0.052730366587638855,
+      "frac_dvStudent_along_vRLHF": -0.03271968473486799,
+      "norm_vRLHF": 9.11130428314209,
+      "norm_dvStudent": 1.6115792989730835,
+      "cos_dvOwl_vRLHF": -0.08469870686531067,
+      "norm_dvOwl": 2.0906476974487305
+    },
+    {
+      "layer": 15,
+      "cos_dvStudent_vRLHF": -0.16147886216640472,
+      "proj_dvStudent_on_vRLHF": -0.2674907147884369,
+      "frac_dvStudent_along_vRLHF": -0.16147885102679727,
+      "norm_vRLHF": 9.485140800476074,
+      "norm_dvStudent": 1.6565061807632446,
+      "cos_dvOwl_vRLHF": -0.22649987041950226,
+      "norm_dvOwl": 2.0147898197174072
+    },
+    {
+      "layer": 16,
+      "cos_dvStudent_vRLHF": -0.31674447655677795,
+      "proj_dvStudent_on_vRLHF": -0.6048960089683533,
+      "frac_dvStudent_along_vRLHF": -0.31674448102726815,
+      "norm_vRLHF": 12.264996528625488,
+      "norm_dvStudent": 1.9097286462783813,
+      "cos_dvOwl_vRLHF": -0.3698023557662964,
+      "norm_dvOwl": 2.220970630645752
+    },
+    {
+      "layer": 17,
+      "cos_dvStudent_vRLHF": -0.27065086364746094,
+      "proj_dvStudent_on_vRLHF": -0.5164211392402649,
+      "frac_dvStudent_along_vRLHF": -0.27065082958558706,
+      "norm_vRLHF": 12.795289993286133,
+      "norm_dvStudent": 1.908071517944336,
+      "cos_dvOwl_vRLHF": -0.33467090129852295,
+      "norm_dvOwl": 2.2064054012298584
+    },
+    {
+      "layer": 18,
+      "cos_dvStudent_vRLHF": -0.26142892241477966,
+      "proj_dvStudent_on_vRLHF": -0.5140901207923889,
+      "frac_dvStudent_along_vRLHF": -0.2614289288338101,
+      "norm_vRLHF": 13.045649528503418,
+      "norm_dvStudent": 1.966462254524231,
+      "cos_dvOwl_vRLHF": -0.29262226819992065,
+      "norm_dvOwl": 2.3775551319122314
+    },
+    {
+      "layer": 19,
+      "cos_dvStudent_vRLHF": -0.2970714271068573,
+      "proj_dvStudent_on_vRLHF": -0.6523854732513428,
+      "frac_dvStudent_along_vRLHF": -0.29707143451157897,
+      "norm_vRLHF": 15.33897876739502,
+      "norm_dvStudent": 2.1960558891296387,
+      "cos_dvOwl_vRLHF": -0.3199385106563568,
+      "norm_dvOwl": 2.6561222076416016
+    },
+    {
+      "layer": 20,
+      "cos_dvStudent_vRLHF": -0.2586284279823303,
+      "proj_dvStudent_on_vRLHF": -0.8103921413421631,
+      "frac_dvStudent_along_vRLHF": -0.25862842054652047,
+      "norm_vRLHF": 20.01334571838379,
+      "norm_dvStudent": 3.133422613143921,
+      "cos_dvOwl_vRLHF": -0.35007739067077637,
+      "norm_dvOwl": 3.7806849479675293
+    },
+    {
+      "layer": 21,
+      "cos_dvStudent_vRLHF": -0.2041570544242859,
+      "proj_dvStudent_on_vRLHF": -0.8092113733291626,
+      "frac_dvStudent_along_vRLHF": -0.20415705028396963,
+      "norm_vRLHF": 23.17556381225586,
+      "norm_dvStudent": 3.9636709690093994,
+      "cos_dvOwl_vRLHF": -0.33358439803123474,
+      "norm_dvOwl": 4.467632293701172
+    },
+    {
+      "layer": 22,
+      "cos_dvStudent_vRLHF": -0.17220668494701385,
+      "proj_dvStudent_on_vRLHF": -0.9026930928230286,
+      "frac_dvStudent_along_vRLHF": -0.17220668545057735,
+      "norm_vRLHF": 26.99786949157715,
+      "norm_dvStudent": 5.241916656494141,
+      "cos_dvOwl_vRLHF": -0.3289306163787842,
+      "norm_dvOwl": 5.664477825164795
+    },
+    {
+      "layer": 23,
+      "cos_dvStudent_vRLHF": -0.09495814144611359,
+      "proj_dvStudent_on_vRLHF": -0.6823885440826416,
+      "frac_dvStudent_along_vRLHF": -0.09495813129210899,
+      "norm_vRLHF": 30.7152042388916,
+      "norm_dvStudent": 7.186204433441162,
+      "cos_dvOwl_vRLHF": -0.24926340579986572,
+      "norm_dvOwl": 7.501029014587402
+    },
+    {
+      "layer": 24,
+      "cos_dvStudent_vRLHF": -0.11562073230743408,
+      "proj_dvStudent_on_vRLHF": -1.0660698413848877,
+      "frac_dvStudent_along_vRLHF": -0.11562074608206434,
+      "norm_vRLHF": 38.7996940612793,
+      "norm_dvStudent": 9.220402717590332,
+      "cos_dvOwl_vRLHF": -0.25014635920524597,
+      "norm_dvOwl": 10.755152702331543
+    },
+    {
+      "layer": 25,
+      "cos_dvStudent_vRLHF": -0.061072081327438354,
+      "proj_dvStudent_on_vRLHF": -0.7202573418617249,
+      "frac_dvStudent_along_vRLHF": -0.061072083569692015,
+      "norm_vRLHF": 45.52537155151367,
+      "norm_dvStudent": 11.793560981750488,
+      "cos_dvOwl_vRLHF": -0.16552340984344482,
+      "norm_dvOwl": 13.328580856323242
+    },
+    {
+      "layer": 26,
+      "cos_dvStudent_vRLHF": -0.03577626124024391,
+      "proj_dvStudent_on_vRLHF": -0.4755901098251343,
+      "frac_dvStudent_along_vRLHF": -0.035776252526956175,
+      "norm_vRLHF": 55.47849655151367,
+      "norm_dvStudent": 13.293457984924316,
+      "cos_dvOwl_vRLHF": -0.1181926354765892,
+      "norm_dvOwl": 15.03067398071289
+    },
+    {
+      "layer": 27,
+      "cos_dvStudent_vRLHF": 0.012798192910850048,
+      "proj_dvStudent_on_vRLHF": 0.23615139722824097,
+      "frac_dvStudent_along_vRLHF": 0.012798191604452619,
+      "norm_vRLHF": 73.07794189453125,
+      "norm_dvStudent": 18.451934814453125,
+      "cos_dvOwl_vRLHF": -0.13446521759033203,
+      "norm_dvOwl": 17.930095672607422
+    },
+    {
+      "layer": 28,
+      "cos_dvStudent_vRLHF": 0.7543896436691284,
+      "proj_dvStudent_on_vRLHF": 34.77708435058594,
+      "frac_dvStudent_along_vRLHF": 0.754389751041396,
+      "norm_vRLHF": 143.4287109375,
+      "norm_dvStudent": 46.09962463378906,
+      "cos_dvOwl_vRLHF": 0.6873311400413513,
+      "norm_dvOwl": 38.782283782958984
+    }
+  ]
+}
